@@ -1,0 +1,2 @@
+# staticip
+find static ip
